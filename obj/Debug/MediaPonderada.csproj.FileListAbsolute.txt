@@ -1,0 +1,7 @@
+C:\Users\Gutemberg Silva\source\repos\MediaPonderada\obj\Debug\MediaPonderada.csprojAssemblyReference.cache
+C:\Users\Gutemberg Silva\source\repos\MediaPonderada\obj\Debug\MediaPonderada.csproj.CoreCompileInputs.cache
+C:\Users\Gutemberg Silva\source\repos\MediaPonderada\bin\Debug\MediaPonderada.exe.config
+C:\Users\Gutemberg Silva\source\repos\MediaPonderada\bin\Debug\MediaPonderada.exe
+C:\Users\Gutemberg Silva\source\repos\MediaPonderada\bin\Debug\MediaPonderada.pdb
+C:\Users\Gutemberg Silva\source\repos\MediaPonderada\obj\Debug\MediaPonderada.exe
+C:\Users\Gutemberg Silva\source\repos\MediaPonderada\obj\Debug\MediaPonderada.pdb
